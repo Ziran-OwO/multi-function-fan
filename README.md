@@ -147,7 +147,7 @@ multi-function-fan/
 
 ## 📷 效果展示
 
-    - [Bilibili - 多功能智能风扇控制系统演示]（https://www.bilibili.com/video/BV1DKR1B7Et8/?vd_source=d7edb4146deda431d6429eff93411c96）
+  [Bilibili - 多功能智能风扇控制系统演示]（https://www.bilibili.com/video/BV1DKR1B7Et8/?vd_source=d7edb4146deda431d6429eff93411c96）
 
 ---
 
